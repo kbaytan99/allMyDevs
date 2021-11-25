@@ -1,6 +1,6 @@
 Hello everybody, I'm Kaan Baytan and this is my AllMyDevs Repository, where I gonna push all days all my devs here, normally I'm a machine programmer but I think I need to learn more about web programming.
 
-#Important meta tags to our website
+<h1>Important meta tags to our website </h1>
 #1. Title Tags The title tag is your main and most important anchor.
 <title>10 Most Important Meta Tags You Need to Know for SEO</title>
 
