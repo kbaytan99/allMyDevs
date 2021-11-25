@@ -64,3 +64,16 @@ Commonly, the tag and the value would look as follows:
 ##Information from:
 https://www.searchenginejournal.com/important-tags-seo/156440/#close
 
+<h1> DAY ONE </h1>
+<p>
+Space For Html.
+Title Tags h1-h6 important for Seo.
+Paragraf tag.
+Example for use h & p.
+Formating Html.
+Example for use h , p & Format Text.
+HyperLink which is used to link from one page to another.
+abbr.
+Adress defines the contact information for the author/owner of a document or an article.
+IMG.
+</p>
