@@ -66,14 +66,14 @@ https://www.searchenginejournal.com/important-tags-seo/156440/#close
 
 <h1> DAY ONE </h1>
 <p>
-Space For Html.
-Title Tags h1-h6 important for Seo.
-Paragraf tag.
-Example for use h & p.
-Formating Html.
-Example for use h , p & Format Text.
-HyperLink which is used to link from one page to another.
-abbr.
-Adress defines the contact information for the author/owner of a document or an article.
+Space For Html. <br>
+Title Tags h1-h6 important for Seo.<br>
+Paragraf tag.<br>
+Example for use h & p.<br>
+Formating Html.<br>
+Example for use h , p & Format Text.<br>
+HyperLink which is used to link from one page to another.<br>
+abbr.<br>
+Adress defines the contact information for the author/owner of a document or an article.<br>
 IMG.
 </p>
