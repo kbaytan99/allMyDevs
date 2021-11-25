@@ -1,11 +1,11 @@
 Hello everybody, I'm Kaan Baytan and this is my AllMyDevs Repository, where I gonna push all days all my devs here, normally I'm a machine programmer but I think I need to learn more about web programming.
 
 <h1>Important meta tags to our website </h1>
-#1. Title Tags The title tag is your main and most important anchor.
-<title>10 Most Important Meta Tags You Need to Know for SEO</title>
+<h5>1. Title Tags The title tag is your main and most important anchor.</h5>
+<!-- <title>10 Most Important Meta Tags You Need to Know for SEO</title> -->
 
-#2. Meta Description Tags
-<meta name="description" content="Some tags are vital for SEO. Others have little or no impact on rankings. Here's every type of meta tag you need to know about.The purpose of a meta description is to reflect the essence of a page, but with more details and context."/>
+<h5>2. Meta Description Tags</h5>
+<!-- <meta name="description" content="Some tags are vital for SEO. Others have little or no impact on rankings. Here's every type of meta tag you need to know about.The purpose of a meta description is to reflect the essence of a page, but with more details and context."/> -->
 
 #3. Heading Tags (H1-H6)
 Heading tags are HTML tags used to identify headings and subheadings within your content from other types of text (e.g., paragraph text).
